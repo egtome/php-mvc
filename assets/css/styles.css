@@ -1,0 +1,18 @@
+
+/* 
+    Created on : Jul 27, 2020, 3:23:22 PM
+    Author     : gino
+*/
+
+body{
+    background: #eee;
+}
+
+h1{
+    color: #434;
+}
+
+#errorMsg{
+    color: #F00;
+    font-weight: bold;
+}
